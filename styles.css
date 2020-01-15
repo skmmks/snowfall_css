@@ -5,6 +5,7 @@
   position: relative;
   width: 100%;
   overflow: visible;
+  height: 100vh;
 }
 .snow {
   height: 18px;
