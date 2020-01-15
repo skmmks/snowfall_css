@@ -2,7 +2,7 @@
   position: absolute;
   color: #ffffff; }
   .snowFlake:after {
-    content: "/2744"; }
+    content: "\2744"; }
 
 body {
   background-color: #000000; }
