@@ -37,3 +37,13 @@ body {
     left: 65%;
   }
 }
+@keyframes snow2 {
+  0% {
+    top: 0%;
+    left: 30%;
+  }
+  100% {
+    top: 100%;
+    left: 25%;
+  }
+}
