@@ -14,6 +14,15 @@
   top: -20px;
   background-color: #ffffff;
 }
+.snow1 {
+  animation: snow1 5s linear 0s infinite;
+}
+.snow2 {
+  animation: snow2 6s linear 1s infinite;
+}
+.snow3 {
+  animation: snow3 7s linear 2s infinite;
+}
 body {
   background-color: #000000;
 }
