@@ -1,0 +1,11 @@
+.snowFlake {
+  position: absolute;
+  color: #ffffff;
+  &:after {
+    content: "/2744";
+  }
+}
+
+body {
+  background-color: #000000;
+}

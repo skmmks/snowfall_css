@@ -1,0 +1,10 @@
+.snowFlake {
+  position: absolute;
+  color: #ffffff; }
+  .snowFlake:after {
+    content: "/2744"; }
+
+body {
+  background-color: #000000; }
+
+/*# sourceMappingURL=styles.css.map */
